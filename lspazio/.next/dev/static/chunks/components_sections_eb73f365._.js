@@ -651,17 +651,26 @@ function TeamSection() {
         {
             name: "AR Kuthubudheen",
             position: "Architect",
-            img: "/images/teams/ar.jpg"
+            img: "/images/teams/team-1.webp",
+            instagram: "https://www.instagram.com/arkuthubu/",
+            whatsapp: "https://wa.me/918921895625",
+            facebook: "https://www.facebook.com/profile.php?id=100093997151238&ref=NONE_ig_profile_ac"
         },
         {
-            name: "Michael Evens",
+            name: "ajmal e",
             position: "Architect",
-            img: "/images/our-team1/pic2.jpg"
+            img: "/images/teams/team-2.webp",
+            instagram: "#",
+            whatsapp: "https://wa.me/919656600493",
+            facebook: "#"
         },
         {
-            name: "Pamela Smith",
+            name: "kabeer m",
             position: "Architect",
-            img: "/images/our-team1/pic3.jpg"
+            img: "/images/teams/team-3.webp",
+            instagram: "#",
+            whatsapp: "#",
+            facebook: "#"
         }
     ];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -680,7 +689,7 @@ function TeamSection() {
                                     children: "Our Experts"
                                 }, void 0, false, {
                                     fileName: "[project]/components/sections/TeamSection.tsx",
-                                    lineNumber: 29,
+                                    lineNumber: 38,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -688,13 +697,13 @@ function TeamSection() {
                                     children: "Our Best Team"
                                 }, void 0, false, {
                                     fileName: "[project]/components/sections/TeamSection.tsx",
-                                    lineNumber: 30,
+                                    lineNumber: 39,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/sections/TeamSection.tsx",
-                            lineNumber: 28,
+                            lineNumber: 37,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -703,18 +712,18 @@ function TeamSection() {
                                 children: "We deliver innovative architectural solutions with precision and purpose. Our team combines creativity and technical expertise to design spaces that are functional, sustainable, and timeless."
                             }, void 0, false, {
                                 fileName: "[project]/components/sections/TeamSection.tsx",
-                                lineNumber: 33,
+                                lineNumber: 42,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/sections/TeamSection.tsx",
-                            lineNumber: 32,
+                            lineNumber: 41,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/sections/TeamSection.tsx",
-                    lineNumber: 27,
+                    lineNumber: 36,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -731,10 +740,15 @@ function TeamSection() {
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                                     src: member.img,
-                                                    alt: member.name
+                                                    alt: member.name,
+                                                    style: {
+                                                        width: "100%",
+                                                        aspectRatio: "1/1",
+                                                        objectFit: "cover"
+                                                    }
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sections/TeamSection.tsx",
-                                                    lineNumber: 47,
+                                                    lineNumber: 56,
                                                     columnNumber: 21
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -744,67 +758,67 @@ function TeamSection() {
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                                    href: "https://www.instagram.com/arkuthubu/",
+                                                                    href: member.instagram,
                                                                     className: "fa-brands fa-instagram",
                                                                     target: "_blank",
                                                                     rel: "noreferrer"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sections/TeamSection.tsx",
-                                                                    lineNumber: 51,
+                                                                    lineNumber: 68,
                                                                     columnNumber: 27
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/sections/TeamSection.tsx",
-                                                                lineNumber: 50,
+                                                                lineNumber: 67,
                                                                 columnNumber: 25
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                                    href: "https://wa.me/918921895625",
+                                                                    href: member.whatsapp,
                                                                     className: "fa-brands fa-whatsapp",
                                                                     target: "_blank",
                                                                     rel: "noreferrer"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sections/TeamSection.tsx",
-                                                                    lineNumber: 59,
+                                                                    lineNumber: 76,
                                                                     columnNumber: 27
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/sections/TeamSection.tsx",
-                                                                lineNumber: 58,
+                                                                lineNumber: 75,
                                                                 columnNumber: 25
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                                    href: "https://www.facebook.com/profile.php?id=100093997151238&ref=NONE_ig_profile_ac",
+                                                                    href: member.facebook,
                                                                     className: "fa-brands fa-facebook-f",
                                                                     target: "_blank",
                                                                     rel: "noreferrer"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sections/TeamSection.tsx",
-                                                                    lineNumber: 67,
+                                                                    lineNumber: 84,
                                                                     columnNumber: 27
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/sections/TeamSection.tsx",
-                                                                lineNumber: 66,
+                                                                lineNumber: 83,
                                                                 columnNumber: 25
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/components/sections/TeamSection.tsx",
-                                                        lineNumber: 49,
+                                                        lineNumber: 66,
                                                         columnNumber: 23
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sections/TeamSection.tsx",
-                                                    lineNumber: 48,
+                                                    lineNumber: 65,
                                                     columnNumber: 21
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/sections/TeamSection.tsx",
-                                            lineNumber: 46,
+                                            lineNumber: 55,
                                             columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -817,57 +831,57 @@ function TeamSection() {
                                                         children: member.name
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/sections/TeamSection.tsx",
-                                                        lineNumber: 80,
+                                                        lineNumber: 97,
                                                         columnNumber: 23
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                         children: member.position
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/sections/TeamSection.tsx",
-                                                        lineNumber: 81,
+                                                        lineNumber: 98,
                                                         columnNumber: 23
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/components/sections/TeamSection.tsx",
-                                                lineNumber: 79,
+                                                lineNumber: 96,
                                                 columnNumber: 21
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/components/sections/TeamSection.tsx",
-                                            lineNumber: 78,
+                                            lineNumber: 95,
                                             columnNumber: 19
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/sections/TeamSection.tsx",
-                                    lineNumber: 45,
+                                    lineNumber: 54,
                                     columnNumber: 17
                                 }, this)
                             }, idx, false, {
                                 fileName: "[project]/components/sections/TeamSection.tsx",
-                                lineNumber: 44,
+                                lineNumber: 53,
                                 columnNumber: 15
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/components/sections/TeamSection.tsx",
-                        lineNumber: 42,
+                        lineNumber: 51,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/components/sections/TeamSection.tsx",
-                    lineNumber: 41,
+                    lineNumber: 50,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/components/sections/TeamSection.tsx",
-            lineNumber: 26,
+            lineNumber: 35,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/components/sections/TeamSection.tsx",
-        lineNumber: 25,
+        lineNumber: 34,
         columnNumber: 5
     }, this);
 }
