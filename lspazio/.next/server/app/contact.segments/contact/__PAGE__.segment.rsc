@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/26766e310e5e3886.js","/_next/static/chunks/6d6abea40377849e.js"],""]
+3:I[68050,["/_next/static/chunks/26766e310e5e3886.js","/_next/static/chunks/6d6abea40377849e.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"4b_-jRfdsxQ7-epGwZxgU","rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","div",null,{"className":"wt-bnr-inr overlay-wraper bg-center bg-cover","style":{"backgroundImage":"url(/images/banner/1.jpg)"},"children":[["$","div",null,{"className":"overlay-main bg-black opacity-06"}],["$","div",null,{"className":"container","children":["$","div",null,{"className":"wt-bnr-inr-entry text-center","children":[["$","div",null,{"className":"banner-title-outer","children":["$","div",null,{"className":"banner-title-name","children":["$","h2",null,{"className":"text-white text-uppercase","style":{"fontFamily":"\"Oswald\", sans-serif","letterSpacing":"5px"},"children":"Contact Us"}]}]}],["$","div",null,{"children":["$","ul",null,{"className":"wt-breadcrumb breadcrumb-style-2","children":[["$","li","0",{"children":["$","$L2",null,{"href":"/","children":"Home"}]}],["$","li","1",{"children":"Contact"}]]}]}]]}]}]]}],["$","$L3",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/6d6abea40377849e.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

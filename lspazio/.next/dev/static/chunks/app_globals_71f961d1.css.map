@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///Users/rashad/Documents/Others/kuthubu/lspazio/app/globals.css"],"sourcesContent":["/* Global css overrides if any */\n"],"names":[],"mappings":""}}]
+}
