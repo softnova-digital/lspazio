@@ -13,15 +13,17 @@ export default function AboutSection() {
               <div className="arc-home-about-left">
                 <div className="arc-home-left-content bg-gray">
                   <h3 className="m-t0 wt-tilte-light">
-                    Design, followed by Form & Function.
+                    Design Driven by Experience & Precision
                   </h3>
                   <h2 className="m-t0 wt-title">
-                    Exploring the Quality Ways through Design.
+                    Engineering Spaces That Define Value.
                   </h2>
                   <p>
-                    We are uncompetitor in architectural solutions Friendly
-                    neighbour there that power.Keep away Architecture who try to
-                    Ambitions people do that really{" "}
+                    A collaborative architecture studio led by experienced
+                    engineers, focused on creating functional, high-impact
+                    spaces. We design with clarity, execute with precision, and
+                    deliver structures that hold real commercial and aesthetic
+                    value.
                   </p>
                   <Link href="/about" className="site-button-link">
                     Read More
@@ -46,11 +48,11 @@ export default function AboutSection() {
                             experience
                           </span>
                           <h2 className="wt-title m-tb0">Year</h2>
-                          <span className="text-outline">12</span>
+                          <span className="text-outline">10</span>
                         </div>
                       </div>
                     </div>
-                    
+
                     <div className="masonry-item">
                       <div className="wt-media m-b20 img-reflection">
                         <img src="/images/about/l-1.jpg" alt="About" />
@@ -64,7 +66,7 @@ export default function AboutSection() {
                         <img src="/images/about/l-2.jpg" alt="About" />
                       </div>
                     </div>
-                    
+
                     <div className="masonry-item">
                       <div className="wt-media m-b20 img-reflection">
                         <img src="/images/about/s-3.jpg" alt="About" />

@@ -1907,3 +1907,260 @@ It can also happen if the client has a browser extension installed which messes 
                           >
                   ...
 
+[01:40:09.667] Browser LOG     invalid zIndex tween value: undefined
+[01:40:09.667] Browser LOG     invalid zIndex tween value: undefined
+[01:40:09.667] Browser LOG     invalid zIndex tween value: undefined
+[01:40:09.667] Browser LOG     invalid zIndex tween value: undefined
+[01:40:09.667] Browser LOG     invalid zIndex tween value: undefined
+[01:40:09.667] Browser LOG     invalid zIndex tween value: undefined
+[01:40:09.667] Browser LOG     invalid zIndex tween value: undefined
+[01:40:09.667] Browser LOG     invalid zIndex tween value: undefined
+[01:40:09.667] Browser LOG     invalid zIndex tween value: undefined
+[01:40:09.667] Browser LOG     invalid zIndex tween value: undefined
+[01:40:09.667] Browser LOG     invalid zIndex tween value: undefined
+[01:40:09.667] Browser LOG     invalid zIndex tween value: undefined
+[01:40:09.667] Browser LOG     invalid zIndex tween value: undefined
+[01:40:09.667] Browser LOG     invalid zIndex tween value: undefined
+[01:40:09.667] Browser LOG     invalid zIndex tween value: undefined
+[01:40:09.667] Browser LOG     invalid zIndex tween value: undefined
+[01:40:16.033] Browser LOG     invalid zIndex tween value: undefined
+[01:40:16.033] Browser LOG     invalid zIndex tween value: undefined
+[01:40:16.033] Browser LOG     invalid zIndex tween value: undefined
+[01:40:16.033] Browser LOG     invalid zIndex tween value: undefined
+[01:40:16.033] Browser LOG     invalid zIndex tween value: undefined
+[01:40:16.033] Browser LOG     invalid zIndex tween value: undefined
+[01:40:16.033] Browser LOG     invalid zIndex tween value: undefined
+[01:40:16.033] Browser LOG     invalid zIndex tween value: undefined
+[01:40:16.033] Browser LOG     invalid zIndex tween value: undefined
+[01:40:16.033] Browser LOG     invalid zIndex tween value: undefined
+[01:40:16.033] Browser LOG     invalid zIndex tween value: undefined
+[01:40:16.033] Browser LOG     invalid zIndex tween value: undefined
+[01:40:16.033] Browser LOG     invalid zIndex tween value: undefined
+[01:40:16.033] Browser LOG     invalid zIndex tween value: undefined
+[01:40:16.033] Browser LOG     invalid zIndex tween value: undefined
+[01:40:16.033] Browser LOG     invalid zIndex tween value: undefined
+[01:40:22.207] Browser LOG     invalid zIndex tween value: undefined
+[01:40:22.207] Browser LOG     invalid zIndex tween value: undefined
+[01:40:22.207] Browser LOG     invalid zIndex tween value: undefined
+[01:40:22.207] Browser LOG     invalid zIndex tween value: undefined
+[01:40:22.207] Browser LOG     invalid zIndex tween value: undefined
+[01:40:22.207] Browser LOG     invalid zIndex tween value: undefined
+[01:40:22.207] Browser LOG     invalid zIndex tween value: undefined
+[01:40:22.207] Browser LOG     invalid zIndex tween value: undefined
+[01:40:22.207] Browser LOG     invalid zIndex tween value: undefined
+[01:40:22.207] Browser LOG     invalid zIndex tween value: undefined
+[01:40:22.207] Browser LOG     invalid zIndex tween value: undefined
+[01:40:22.207] Browser LOG     invalid zIndex tween value: undefined
+[01:40:22.207] Browser LOG     invalid zIndex tween value: undefined
+[01:40:22.207] Browser LOG     invalid zIndex tween value: undefined
+[01:40:22.207] Browser LOG     invalid zIndex tween value: undefined
+[01:40:22.207] Browser LOG     invalid zIndex tween value: undefined
+[01:40:28.397] Browser LOG     invalid zIndex tween value: undefined
+[01:40:28.398] Browser LOG     invalid zIndex tween value: undefined
+[01:40:28.398] Browser LOG     invalid zIndex tween value: undefined
+[01:40:28.398] Browser LOG     invalid zIndex tween value: undefined
+[01:40:28.398] Browser LOG     invalid zIndex tween value: undefined
+[01:40:28.398] Browser LOG     invalid zIndex tween value: undefined
+[01:40:28.398] Browser LOG     invalid zIndex tween value: undefined
+[01:40:28.398] Browser LOG     invalid zIndex tween value: undefined
+[01:40:28.398] Browser LOG     invalid zIndex tween value: undefined
+[01:40:28.398] Browser LOG     invalid zIndex tween value: undefined
+[01:40:28.398] Browser LOG     invalid zIndex tween value: undefined
+[01:40:28.398] Browser LOG     invalid zIndex tween value: undefined
+[01:40:28.398] Browser LOG     invalid zIndex tween value: undefined
+[01:40:28.398] Browser LOG     invalid zIndex tween value: undefined
+[01:40:28.398] Browser LOG     invalid zIndex tween value: undefined
+[01:40:28.398] Browser LOG     invalid zIndex tween value: undefined
+[01:43:53.228] Server  LOG     ✓ Compiled in 600ms
+[01:43:53.898] Server  LOG     ✓ Compiled in 73ms
+[01:43:54.016] Browser ERROR   ./components/sections/TeamSection.tsx:7:15
+Parsing ecmascript source code failed
+   5 | export default function TeamSection() {
+   6 |     const team = [
+>  7 |         { name', position: 'Architect', img: '/images/our-team1/pic1.jpg' },
+     |               ^^^^^^^^^^^^^^
+   8 |         { name: 'Michael Evens', position: 'Architect', img: '/images/our-team1/pic2.jpg' },
+   9 |         { name: 'Pamela Smith', position: 'Architect', img: '/images/our-team1/pic3.jpg' }
+  10 |     ];
+
+Unexpected token `string literal`. Expected ... , *,  (, [, :, , ?, =, an identifier, public, protected, private, readonly, <.
+
+Import trace:
+  Server Component:
+    ./components/sections/TeamSection.tsx
+    ./app/page.tsx
+[01:43:54.016] Browser ERROR   ./components/sections/TeamSection.tsx:7:30
+Parsing ecmascript source code failed
+   5 | export default function TeamSection() {
+   6 |     const team = [
+>  7 |         { name:', position: 'Architect', img: '/images/our-team1/pic1.jpg' },
+     |                              ^^^^^^^^^
+   8 |         { name: 'Michael Evens', position: 'Architect', img: '/images/our-team1/pic2.jpg' },
+   9 |         { name: 'Pamela Smith', position: 'Architect', img: '/images/our-team1/pic3.jpg' }
+  10 |     ];
+
+Expected ',', got 'ident'
+
+Import trace:
+  Server Component:
+    ./components/sections/TeamSection.tsx
+    ./app/page.tsx
+[01:43:54.920] Server  LOG     ✓ Compiled in 210ms
+[01:43:55.295] Browser ERROR   ./components/sections/TeamSection.tsx:7:31
+Parsing ecmascript source code failed
+   5 | export default function TeamSection() {
+   6 |     const team = [
+>  7 |         { name: ', position: 'Architect', img: '/images/our-team1/pic1.jpg' },
+     |                               ^^^^^^^^^
+   8 |         { name: 'Michael Evens', position: 'Architect', img: '/images/our-team1/pic2.jpg' },
+   9 |         { name: 'Pamela Smith', position: 'Architect', img: '/images/our-team1/pic3.jpg' }
+  10 |     ];
+
+Expected ',', got 'ident'
+
+Import trace:
+  Server Component:
+    ./components/sections/TeamSection.tsx
+    ./app/page.tsx
+[01:44:19.639] Server  LOG     ✓ Compiled in 41ms
+[01:44:27.406] Server  LOG     ✓ Compiled in 122ms
+[01:44:46.589] Server  LOG     ✓ Compiled in 128ms
+[01:44:49.622] Server  LOG     ✓ Compiled in 49ms
+[01:44:49.719] Server  LOG     ✓ Compiled in 22ms
+[01:44:49.971] Server  LOG     ✓ Compiled in 119ms
+[01:44:50.030] Server  LOG     ✓ Compiled in 28ms
+[01:44:50.149] Server  LOG     ✓ Compiled in 20ms
+[01:44:50.364] Server  LOG     ✓ Compiled in 58ms
+[01:44:50.483] Server  LOG     ✓ Compiled in 34ms
+[01:44:50.624] Server  LOG     ✓ Compiled in 36ms
+[01:44:50.783] Server  LOG     ✓ Compiled in 34ms
+[01:45:14.096] Server  LOG     ✓ Compiled in 42ms
+[01:47:40.464] Server  LOG     ✓ Compiled in 223ms
+[01:47:59.889] Server  LOG     ✓ Compiled in 101ms
+[01:51:27.322] Server  LOG     ✓ Compiled in 377ms
+[01:57:41.210] Server  LOG     ✓ Compiled in 160ms
+[01:58:43.026] Server  LOG     ✓ Compiled in 5ms
+[02:54:48.591] Server  LOG     ✓ Compiled in 174ms
+[02:54:55.101] Server  LOG     ✓ Compiled in 83ms
+[02:55:06.357] Server  LOG     ✓ Compiled in 58ms
+[02:55:26.545] Server  LOG     ✓ Compiled in 47ms
+[02:56:07.072] Browser LOG     invalid zIndex tween value: undefined
+[02:56:07.072] Browser LOG     invalid zIndex tween value: undefined
+[02:56:07.072] Browser LOG     invalid zIndex tween value: undefined
+[02:56:07.072] Browser LOG     invalid zIndex tween value: undefined
+[02:56:07.072] Browser LOG     invalid zIndex tween value: undefined
+[02:56:07.072] Browser LOG     invalid zIndex tween value: undefined
+[02:56:07.072] Browser LOG     invalid zIndex tween value: undefined
+[02:56:07.072] Browser LOG     invalid zIndex tween value: undefined
+[02:56:07.073] Browser LOG     invalid zIndex tween value: undefined
+[02:56:07.073] Browser LOG     invalid zIndex tween value: undefined
+[02:56:07.073] Browser LOG     invalid zIndex tween value: undefined
+[02:56:07.073] Browser LOG     invalid zIndex tween value: undefined
+[02:56:07.073] Browser LOG     invalid zIndex tween value: undefined
+[02:56:07.073] Browser LOG     invalid zIndex tween value: undefined
+[02:56:07.073] Browser LOG     invalid zIndex tween value: undefined
+[02:56:07.073] Browser LOG     invalid zIndex tween value: undefined
+[08:50:15.332] Server  LOG     ✓ Compiled in 209ms
+[08:50:16.313] Server  LOG     ✓ Compiled in 17ms
+[08:50:19.435] Server  LOG     ✓ Compiled in 70ms
+[08:50:19.692] Server  LOG     ✓ Compiled in 190ms
+[08:50:20.104] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[08:50:20.104] Browser ERROR   ./components/sections/TeamSection.tsx:10:12
+Parsing ecmascript source code failed
+   8 |       name: "AR Kuthubudheen",
+   9 |       position: "Architect",
+> 10 |       img: ",
+     |            ^^
+  11 |     },
+  12 |     {
+  13 |       name: "Michael Evens",
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./components/sections/TeamSection.tsx
+    ./app/page.tsx
+[08:50:21.784] Server  LOG     ✓ Compiled in 45ms
+[08:50:22.812] Server  LOG     ✓ Compiled in 45ms
+[08:50:22.972] Server  LOG     ✓ Compiled in 71ms
+[08:50:23.119] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[08:50:23.119] Browser ERROR   ./components/sections/TeamSection.tsx:10:12
+Parsing ecmascript source code failed
+   8 |       name: "AR Kuthubudheen",
+   9 |       position: "Architect",
+> 10 |       img: ",
+     |            ^^
+  11 |     },
+  12 |     {
+  13 |       name: "Michael Evens",
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./components/sections/TeamSection.tsx
+    ./app/page.tsx
+[08:50:24.053] Server  LOG     ✓ Compiled in 45ms
+[08:50:24.100] Browser ERROR   ./components/sections/TeamSection.tsx:10:11
+Parsing ecmascript source code failed
+   8 |       name: "AR Kuthubudheen",
+   9 |       position: "Architect",
+> 10 |       img:",
+     |           ^^
+  11 |     },
+  12 |     {
+  13 |       name: "Michael Evens",
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./components/sections/TeamSection.tsx
+    ./app/page.tsx
+[08:50:24.100] Browser ERROR   ./components/sections/TeamSection.tsx:10:12
+Parsing ecmascript source code failed
+   8 |       name: "AR Kuthubudheen",
+   9 |       position: "Architect",
+> 10 |       img: ",
+     |            ^^
+  11 |     },
+  12 |     {
+  13 |       name: "Michael Evens",
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./components/sections/TeamSection.tsx
+    ./app/page.tsx
+[08:50:24.497] Server  LOG     ✓ Compiled in 42ms
+[08:50:27.252] Server  LOG     ✓ Compiled in 20ms
+[08:50:27.270] Server  LOG     ✓ Compiled in 19ms
+[08:50:27.455] Server  LOG     ✓ Compiled in 13ms
+[08:50:27.570] Server  LOG     ✓ Compiled in 7ms
+[08:50:30.263] Server  LOG     ✓ Compiled in 32ms
+[08:50:30.380] Server  LOG     ✓ Compiled in 22ms
+[08:50:51.979] Server  LOG     ✓ Compiled in 39ms
+[08:50:53.407] Server  LOG     ✓ Compiled in 42ms
+[08:50:56.468] Server  LOG     ✓ Compiled in 32ms
+[08:50:57.821] Server  LOG     ✓ Compiled in 23ms
+[08:56:48.719] Server  LOG     ✓ Compiled in 134ms
+[09:00:35.404] Server  LOG     ✓ Compiled in 139ms
+[09:07:11.758] Server  LOG     ✓ Compiled in 282ms
+[09:09:22.567] Server  LOG     ✓ Compiled in 155ms
+[09:09:25.753] Server  LOG     ✓ Compiled in 32ms
+[09:09:25.874] Server  LOG     ✓ Compiled in 28ms
+[09:09:26.016] Server  LOG     ✓ Compiled in 9ms
+[09:09:27.177] Server  LOG     ✓ Compiled in 51ms
+[09:09:27.936] Server  LOG     ✓ Compiled in 19ms
+[09:09:37.504] Server  LOG     ✓ Compiled in 88ms
+[09:09:37.869] Server  LOG     ✓ Compiled in 54ms
+[09:09:38.173] Server  LOG     ✓ Compiled in 20ms
+[09:09:38.318] Server  LOG     ✓ Compiled in 11ms
+[09:09:38.531] Server  LOG     ✓ Compiled in 25ms
+[09:09:39.408] Server  LOG     ✓ Compiled in 36ms
+[09:09:39.681] Server  LOG     ✓ Compiled in 28ms
+[09:12:50.087] Server  LOG     ✓ Compiled in 169ms
+[09:13:22.196] Server  LOG     ✓ Compiled in 55ms
+[09:14:23.231] Server  LOG     ✓ Compiled in 26ms

@@ -30,7 +30,7 @@ function AboutSection() {
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                             className: "m-t0 wt-tilte-light",
-                                            children: "Design, followed by Form & Function."
+                                            children: "Design Driven by Experience & Precision"
                                         }, void 0, false, {
                                             fileName: "[project]/components/sections/AboutSection.tsx",
                                             lineNumber: 15,
@@ -38,18 +38,15 @@ function AboutSection() {
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                             className: "m-t0 wt-title",
-                                            children: "Exploring the Quality Ways through Design."
+                                            children: "Engineering Spaces That Define Value."
                                         }, void 0, false, {
                                             fileName: "[project]/components/sections/AboutSection.tsx",
                                             lineNumber: 18,
                                             columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            children: [
-                                                "We are uncompetitor in architectural solutions Friendly neighbour there that power.Keep away Architecture who try to Ambitions people do that really",
-                                                " "
-                                            ]
-                                        }, void 0, true, {
+                                            children: "A collaborative architecture studio led by experienced engineers, focused on creating functional, high-impact spaces. We design with clarity, execute with precision, and deliver structures that hold real commercial and aesthetic value."
+                                        }, void 0, false, {
                                             fileName: "[project]/components/sections/AboutSection.tsx",
                                             lineNumber: 21,
                                             columnNumber: 19
@@ -60,7 +57,7 @@ function AboutSection() {
                                             children: "Read More"
                                         }, void 0, false, {
                                             fileName: "[project]/components/sections/AboutSection.tsx",
-                                            lineNumber: 26,
+                                            lineNumber: 28,
                                             columnNumber: 19
                                         }, this)
                                     ]
@@ -83,11 +80,176 @@ function AboutSection() {
                             className: "col-lg-6 col-md-12",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "arc-home-about-right portfolio-wrap",
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "row",
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "col-md-6 col-sm-6",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "row d-none d-sm-flex",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "col-md-6 col-sm-6",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "masonry-item",
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            className: "arc-about-year text-uppercase text-right m-b20",
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                    className: "arc-about-year-pic img-reflection",
+                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                                                        src: "/images/about/s-1.jpg",
+                                                                        alt: "About"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/components/sections/AboutSection.tsx",
+                                                                        lineNumber: 43,
+                                                                        columnNumber: 27
+                                                                    }, this)
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/components/sections/AboutSection.tsx",
+                                                                    lineNumber: 42,
+                                                                    columnNumber: 25
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                    className: "arc-about-year-info",
+                                                                    children: [
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                            className: "title-small",
+                                                                            children: [
+                                                                                "working ",
+                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                                                                    fileName: "[project]/components/sections/AboutSection.tsx",
+                                                                                    lineNumber: 47,
+                                                                                    columnNumber: 37
+                                                                                }, this),
+                                                                                "experience"
+                                                                            ]
+                                                                        }, void 0, true, {
+                                                                            fileName: "[project]/components/sections/AboutSection.tsx",
+                                                                            lineNumber: 46,
+                                                                            columnNumber: 27
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                                                                            className: "wt-title m-tb0",
+                                                                            children: "Year"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/components/sections/AboutSection.tsx",
+                                                                            lineNumber: 50,
+                                                                            columnNumber: 27
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                            className: "text-outline",
+                                                                            children: "10"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/components/sections/AboutSection.tsx",
+                                                                            lineNumber: 51,
+                                                                            columnNumber: 27
+                                                                        }, this)
+                                                                    ]
+                                                                }, void 0, true, {
+                                                                    fileName: "[project]/components/sections/AboutSection.tsx",
+                                                                    lineNumber: 45,
+                                                                    columnNumber: 25
+                                                                }, this)
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/components/sections/AboutSection.tsx",
+                                                            lineNumber: 41,
+                                                            columnNumber: 23
+                                                        }, this)
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/components/sections/AboutSection.tsx",
+                                                        lineNumber: 40,
+                                                        columnNumber: 21
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "masonry-item",
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            className: "wt-media m-b20 img-reflection",
+                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                                                src: "/images/about/l-1.jpg",
+                                                                alt: "About"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/components/sections/AboutSection.tsx",
+                                                                lineNumber: 58,
+                                                                columnNumber: 25
+                                                            }, this)
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/components/sections/AboutSection.tsx",
+                                                            lineNumber: 57,
+                                                            columnNumber: 23
+                                                        }, this)
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/components/sections/AboutSection.tsx",
+                                                        lineNumber: 56,
+                                                        columnNumber: 21
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/components/sections/AboutSection.tsx",
+                                                lineNumber: 39,
+                                                columnNumber: 19
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "col-md-6 col-sm-6",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "masonry-item",
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            className: "wt-media m-b20 img-reflection",
+                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                                                src: "/images/about/l-2.jpg",
+                                                                alt: "About"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/components/sections/AboutSection.tsx",
+                                                                lineNumber: 66,
+                                                                columnNumber: 25
+                                                            }, this)
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/components/sections/AboutSection.tsx",
+                                                            lineNumber: 65,
+                                                            columnNumber: 23
+                                                        }, this)
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/components/sections/AboutSection.tsx",
+                                                        lineNumber: 64,
+                                                        columnNumber: 21
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "masonry-item",
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            className: "wt-media m-b20 img-reflection",
+                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                                                src: "/images/about/s-3.jpg",
+                                                                alt: "About"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/components/sections/AboutSection.tsx",
+                                                                lineNumber: 72,
+                                                                columnNumber: 25
+                                                            }, this)
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/components/sections/AboutSection.tsx",
+                                                            lineNumber: 71,
+                                                            columnNumber: 23
+                                                        }, this)
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/components/sections/AboutSection.tsx",
+                                                        lineNumber: 70,
+                                                        columnNumber: 21
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/components/sections/AboutSection.tsx",
+                                                lineNumber: 63,
+                                                columnNumber: 19
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/components/sections/AboutSection.tsx",
+                                        lineNumber: 38,
+                                        columnNumber: 17
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "row d-sm-none",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "col-12",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                     className: "masonry-item",
@@ -101,12 +263,12 @@ function AboutSection() {
                                                                     alt: "About"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sections/AboutSection.tsx",
-                                                                    lineNumber: 40,
+                                                                    lineNumber: 84,
                                                                     columnNumber: 27
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/sections/AboutSection.tsx",
-                                                                lineNumber: 39,
+                                                                lineNumber: 83,
                                                                 columnNumber: 25
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -118,14 +280,14 @@ function AboutSection() {
                                                                             "working ",
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                                                 fileName: "[project]/components/sections/AboutSection.tsx",
-                                                                                lineNumber: 44,
+                                                                                lineNumber: 88,
                                                                                 columnNumber: 37
                                                                             }, this),
                                                                             "experience"
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/components/sections/AboutSection.tsx",
-                                                                        lineNumber: 43,
+                                                                        lineNumber: 87,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -133,7 +295,7 @@ function AboutSection() {
                                                                         children: "Year"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/components/sections/AboutSection.tsx",
-                                                                        lineNumber: 47,
+                                                                        lineNumber: 91,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -141,24 +303,46 @@ function AboutSection() {
                                                                         children: "12"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/components/sections/AboutSection.tsx",
-                                                                        lineNumber: 48,
+                                                                        lineNumber: 92,
                                                                         columnNumber: 27
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/components/sections/AboutSection.tsx",
-                                                                lineNumber: 42,
+                                                                lineNumber: 86,
                                                                 columnNumber: 25
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/components/sections/AboutSection.tsx",
-                                                        lineNumber: 38,
+                                                        lineNumber: 82,
                                                         columnNumber: 23
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sections/AboutSection.tsx",
-                                                    lineNumber: 37,
+                                                    lineNumber: 81,
+                                                    columnNumber: 21
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "masonry-item",
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "wt-media m-b20 img-reflection",
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                                            src: "/images/about/l-2.jpg",
+                                                            alt: "About"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/components/sections/AboutSection.tsx",
+                                                            lineNumber: 99,
+                                                            columnNumber: 25
+                                                        }, this)
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/components/sections/AboutSection.tsx",
+                                                        lineNumber: 98,
+                                                        columnNumber: 23
+                                                    }, this)
+                                                }, void 0, false, {
+                                                    fileName: "[project]/components/sections/AboutSection.tsx",
+                                                    lineNumber: 97,
                                                     columnNumber: 21
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -170,48 +354,17 @@ function AboutSection() {
                                                             alt: "About"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/sections/AboutSection.tsx",
-                                                            lineNumber: 55,
+                                                            lineNumber: 105,
                                                             columnNumber: 25
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/sections/AboutSection.tsx",
-                                                        lineNumber: 54,
+                                                        lineNumber: 104,
                                                         columnNumber: 23
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sections/AboutSection.tsx",
-                                                    lineNumber: 53,
-                                                    columnNumber: 21
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
-                                            fileName: "[project]/components/sections/AboutSection.tsx",
-                                            lineNumber: 36,
-                                            columnNumber: 19
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "col-md-6 col-sm-6",
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "masonry-item",
-                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "wt-media m-b20 img-reflection",
-                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                            src: "/images/about/l-2.jpg",
-                                                            alt: "About"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/components/sections/AboutSection.tsx",
-                                                            lineNumber: 63,
-                                                            columnNumber: 25
-                                                        }, this)
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/components/sections/AboutSection.tsx",
-                                                        lineNumber: 62,
-                                                        columnNumber: 23
-                                                    }, this)
-                                                }, void 0, false, {
-                                                    fileName: "[project]/components/sections/AboutSection.tsx",
-                                                    lineNumber: 61,
+                                                    lineNumber: 103,
                                                     columnNumber: 21
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -223,39 +376,39 @@ function AboutSection() {
                                                             alt: "About"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/sections/AboutSection.tsx",
-                                                            lineNumber: 69,
+                                                            lineNumber: 111,
                                                             columnNumber: 25
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/sections/AboutSection.tsx",
-                                                        lineNumber: 68,
+                                                        lineNumber: 110,
                                                         columnNumber: 23
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sections/AboutSection.tsx",
-                                                    lineNumber: 67,
+                                                    lineNumber: 109,
                                                     columnNumber: 21
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/sections/AboutSection.tsx",
-                                            lineNumber: 60,
+                                            lineNumber: 80,
                                             columnNumber: 19
                                         }, this)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/components/sections/AboutSection.tsx",
-                                    lineNumber: 35,
-                                    columnNumber: 17
-                                }, this)
-                            }, void 0, false, {
+                                    }, void 0, false, {
+                                        fileName: "[project]/components/sections/AboutSection.tsx",
+                                        lineNumber: 79,
+                                        columnNumber: 17
+                                    }, this)
+                                ]
+                            }, void 0, true, {
                                 fileName: "[project]/components/sections/AboutSection.tsx",
-                                lineNumber: 34,
+                                lineNumber: 36,
                                 columnNumber: 15
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/sections/AboutSection.tsx",
-                            lineNumber: 33,
+                            lineNumber: 35,
                             columnNumber: 13
                         }, this)
                     ]
@@ -491,24 +644,24 @@ __turbopack_context__.s([
     ()=>TeamSection
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
-'use client';
+"use client";
 ;
 function TeamSection() {
     const team = [
         {
-            name: 'Taminm Alows',
-            position: 'Architect',
-            img: '/images/our-team1/pic1.jpg'
+            name: "AR Kuthubudheen",
+            position: "Architect",
+            img: "/images/teams/ar.jpg"
         },
         {
-            name: 'Michael Evens',
-            position: 'Architect',
-            img: '/images/our-team1/pic2.jpg'
+            name: "Michael Evens",
+            position: "Architect",
+            img: "/images/our-team1/pic2.jpg"
         },
         {
-            name: 'Pamela Smith',
-            position: 'Architect',
-            img: '/images/our-team1/pic3.jpg'
+            name: "Pamela Smith",
+            position: "Architect",
+            img: "/images/our-team1/pic3.jpg"
         }
     ];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -527,42 +680,42 @@ function TeamSection() {
                                     children: "Our Experts"
                                 }, void 0, false, {
                                     fileName: "[project]/components/sections/TeamSection.tsx",
-                                    lineNumber: 17,
-                                    columnNumber: 25
+                                    lineNumber: 29,
+                                    columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                     className: "m-b5",
                                     children: "Our Best Team"
                                 }, void 0, false, {
                                     fileName: "[project]/components/sections/TeamSection.tsx",
-                                    lineNumber: 18,
-                                    columnNumber: 25
+                                    lineNumber: 30,
+                                    columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/sections/TeamSection.tsx",
-                            lineNumber: 16,
-                            columnNumber: 21
+                            lineNumber: 28,
+                            columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "title-right-detail",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                children: "We are uncompetitor in architectural solutions Friendly neighbour there that power. Keep away Architecture who try to Ambitions people do that really great."
+                                children: "We deliver innovative architectural solutions with precision and purpose. Our team combines creativity and technical expertise to design spaces that are functional, sustainable, and timeless."
                             }, void 0, false, {
                                 fileName: "[project]/components/sections/TeamSection.tsx",
-                                lineNumber: 21,
-                                columnNumber: 25
+                                lineNumber: 33,
+                                columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/sections/TeamSection.tsx",
-                            lineNumber: 20,
-                            columnNumber: 21
+                            lineNumber: 32,
+                            columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/sections/TeamSection.tsx",
-                    lineNumber: 15,
-                    columnNumber: 17
+                    lineNumber: 27,
+                    columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "section-content",
@@ -581,8 +734,8 @@ function TeamSection() {
                                                     alt: member.name
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sections/TeamSection.tsx",
-                                                    lineNumber: 31,
-                                                    columnNumber: 41
+                                                    lineNumber: 47,
+                                                    columnNumber: 21
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                     className: "team-social-center",
@@ -591,100 +744,68 @@ function TeamSection() {
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                                    href: "https://www.pinterest.com",
-                                                                    className: "fa-brands fa-pinterest-p",
+                                                                    href: "https://www.instagram.com/arkuthubu/",
+                                                                    className: "fa-brands fa-instagram",
                                                                     target: "_blank",
                                                                     rel: "noreferrer"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sections/TeamSection.tsx",
-                                                                    lineNumber: 34,
-                                                                    columnNumber: 53
+                                                                    lineNumber: 51,
+                                                                    columnNumber: 27
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/sections/TeamSection.tsx",
-                                                                lineNumber: 34,
-                                                                columnNumber: 49
+                                                                lineNumber: 50,
+                                                                columnNumber: 25
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                                    href: "https://web.whatsapp.com",
+                                                                    href: "https://wa.me/918921895625",
                                                                     className: "fa-brands fa-whatsapp",
                                                                     target: "_blank",
                                                                     rel: "noreferrer"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sections/TeamSection.tsx",
-                                                                    lineNumber: 35,
-                                                                    columnNumber: 53
+                                                                    lineNumber: 59,
+                                                                    columnNumber: 27
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/sections/TeamSection.tsx",
-                                                                lineNumber: 35,
-                                                                columnNumber: 49
+                                                                lineNumber: 58,
+                                                                columnNumber: 25
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                                    href: "https://www.facebook.com",
+                                                                    href: "https://www.facebook.com/profile.php?id=100093997151238&ref=NONE_ig_profile_ac",
                                                                     className: "fa-brands fa-facebook-f",
                                                                     target: "_blank",
                                                                     rel: "noreferrer"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sections/TeamSection.tsx",
-                                                                    lineNumber: 36,
-                                                                    columnNumber: 53
+                                                                    lineNumber: 67,
+                                                                    columnNumber: 27
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/sections/TeamSection.tsx",
-                                                                lineNumber: 36,
-                                                                columnNumber: 49
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                                    href: "https://x.com",
-                                                                    className: "fa-brands fa-x-twitter",
-                                                                    target: "_blank",
-                                                                    rel: "noreferrer"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/components/sections/TeamSection.tsx",
-                                                                    lineNumber: 37,
-                                                                    columnNumber: 53
-                                                                }, this)
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/components/sections/TeamSection.tsx",
-                                                                lineNumber: 37,
-                                                                columnNumber: 49
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                                    href: "https://www.linkedin.com",
-                                                                    className: "fa-brands fa-linkedin-in",
-                                                                    target: "_blank",
-                                                                    rel: "noreferrer"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/components/sections/TeamSection.tsx",
-                                                                    lineNumber: 38,
-                                                                    columnNumber: 53
-                                                                }, this)
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/components/sections/TeamSection.tsx",
-                                                                lineNumber: 38,
-                                                                columnNumber: 49
+                                                                lineNumber: 66,
+                                                                columnNumber: 25
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/components/sections/TeamSection.tsx",
-                                                        lineNumber: 33,
-                                                        columnNumber: 45
+                                                        lineNumber: 49,
+                                                        columnNumber: 23
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sections/TeamSection.tsx",
-                                                    lineNumber: 32,
-                                                    columnNumber: 41
+                                                    lineNumber: 48,
+                                                    columnNumber: 21
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/sections/TeamSection.tsx",
-                                            lineNumber: 30,
-                                            columnNumber: 37
+                                            lineNumber: 46,
+                                            columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "wt-info bg-white p-a30",
@@ -696,58 +817,58 @@ function TeamSection() {
                                                         children: member.name
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/sections/TeamSection.tsx",
-                                                        lineNumber: 45,
-                                                        columnNumber: 45
+                                                        lineNumber: 80,
+                                                        columnNumber: 23
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                         children: member.position
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/sections/TeamSection.tsx",
-                                                        lineNumber: 46,
-                                                        columnNumber: 45
+                                                        lineNumber: 81,
+                                                        columnNumber: 23
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/components/sections/TeamSection.tsx",
-                                                lineNumber: 44,
-                                                columnNumber: 41
+                                                lineNumber: 79,
+                                                columnNumber: 21
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/components/sections/TeamSection.tsx",
-                                            lineNumber: 43,
-                                            columnNumber: 37
+                                            lineNumber: 78,
+                                            columnNumber: 19
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/sections/TeamSection.tsx",
-                                    lineNumber: 29,
-                                    columnNumber: 33
+                                    lineNumber: 45,
+                                    columnNumber: 17
                                 }, this)
                             }, idx, false, {
                                 fileName: "[project]/components/sections/TeamSection.tsx",
-                                lineNumber: 28,
-                                columnNumber: 29
+                                lineNumber: 44,
+                                columnNumber: 15
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/components/sections/TeamSection.tsx",
-                        lineNumber: 26,
-                        columnNumber: 21
+                        lineNumber: 42,
+                        columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/components/sections/TeamSection.tsx",
-                    lineNumber: 25,
-                    columnNumber: 17
+                    lineNumber: 41,
+                    columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/components/sections/TeamSection.tsx",
-            lineNumber: 14,
-            columnNumber: 13
+            lineNumber: 26,
+            columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/components/sections/TeamSection.tsx",
-        lineNumber: 13,
-        columnNumber: 9
+        lineNumber: 25,
+        columnNumber: 5
     }, this);
 }
 _c = TeamSection;
