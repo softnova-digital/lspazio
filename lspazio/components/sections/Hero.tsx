@@ -287,7 +287,7 @@ export default function Hero() {
                                         style="z-index: 13; 
                                         white-space: normal; 
                                         border-width:0px;">
-                                       {/* <img src="images/projects/pro-2.3.webp" alt=""> */}
+                                       <img src="images/projects/pro-2.4.1.webp" alt="">
                                     </div>                                       
                                                                                                  
                                 </li>
@@ -531,7 +531,7 @@ export default function Hero() {
                                         style="z-index: 13; 
                                         white-space: normal; 
                                         border-width:0px;">
-                                       <img src="images/projects/pro-2.3.webp" alt=""> 
+                                       <img src="images/projects/pro-2.1.1.webp" alt=""> 
                                     </div>                                       
                                                                                                  
                                 </li>

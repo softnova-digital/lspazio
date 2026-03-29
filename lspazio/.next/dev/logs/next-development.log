@@ -3607,3 +3607,337 @@ It can also happen if the client has a browser extension installed which messes 
 [10:48:42.380] Browser LOG     invalid zIndex tween value: undefined
 [10:48:42.380] Browser LOG     invalid zIndex tween value: undefined
 [10:52:05.563] Server  LOG     ✓ Compiled in 127ms
+[11:18:40.686] Browser LOG     invalid zIndex tween value: undefined
+[11:18:40.686] Browser LOG     invalid zIndex tween value: undefined
+[11:18:40.686] Browser LOG     invalid zIndex tween value: undefined
+[11:18:40.686] Browser LOG     invalid zIndex tween value: undefined
+[11:18:40.686] Browser LOG     invalid zIndex tween value: undefined
+[11:18:40.686] Browser LOG     invalid zIndex tween value: undefined
+[11:18:40.686] Browser LOG     invalid zIndex tween value: undefined
+[11:18:40.686] Browser LOG     invalid zIndex tween value: undefined
+[11:18:40.686] Browser LOG     invalid zIndex tween value: undefined
+[11:18:40.686] Browser LOG     invalid zIndex tween value: undefined
+[11:18:40.686] Browser LOG     invalid zIndex tween value: undefined
+[11:18:40.686] Browser LOG     invalid zIndex tween value: undefined
+[11:18:40.686] Browser LOG     invalid zIndex tween value: undefined
+[11:18:40.686] Browser LOG     invalid zIndex tween value: undefined
+[11:18:40.686] Browser LOG     invalid zIndex tween value: undefined
+[11:18:40.686] Browser LOG     invalid zIndex tween value: undefined
+[11:18:52.717] Browser LOG     invalid zIndex tween value: undefined
+[11:18:52.717] Browser LOG     invalid zIndex tween value: undefined
+[11:18:52.717] Browser LOG     invalid zIndex tween value: undefined
+[11:18:52.717] Browser LOG     invalid zIndex tween value: undefined
+[11:18:52.717] Browser LOG     invalid zIndex tween value: undefined
+[11:18:52.717] Browser LOG     invalid zIndex tween value: undefined
+[11:18:52.717] Browser LOG     invalid zIndex tween value: undefined
+[11:18:52.717] Browser LOG     invalid zIndex tween value: undefined
+[11:18:52.717] Browser LOG     invalid zIndex tween value: undefined
+[11:18:52.717] Browser LOG     invalid zIndex tween value: undefined
+[11:18:52.717] Browser LOG     invalid zIndex tween value: undefined
+[11:18:52.717] Browser LOG     invalid zIndex tween value: undefined
+[11:18:52.718] Browser LOG     invalid zIndex tween value: undefined
+[11:18:52.718] Browser LOG     invalid zIndex tween value: undefined
+[11:18:52.718] Browser LOG     invalid zIndex tween value: undefined
+[11:18:52.718] Browser LOG     invalid zIndex tween value: undefined
+[11:20:48.197] Server  LOG     ✓ Compiled in 126ms
+[11:20:53.016] Server  LOG     ✓ Compiled in 42ms
+[11:20:53.271] Server  LOG     ✓ Compiled in 25ms
+[11:20:53.487] Server  LOG     ✓ Compiled in 47ms
+[11:20:53.582] Server  LOG     ✓ Compiled in 16ms
+[11:20:53.732] Server  LOG     ✓ Compiled in 17ms
+[11:20:53.904] Server  LOG     ✓ Compiled in 20ms
+[11:20:54.064] Server  LOG     ✓ Compiled in 15ms
+[11:20:54.200] Server  LOG     ✓ Compiled in 15ms
+[11:20:54.367] Server  LOG     ✓ Compiled in 16ms
+[11:20:54.517] Server  LOG     ✓ Compiled in 13ms
+[11:20:54.676] Server  LOG     ✓ Compiled in 21ms
+[11:20:54.832] Server  LOG     ✓ Compiled in 21ms
+[11:20:54.976] Server  LOG     ✓ Compiled in 14ms
+[11:20:55.501] Server  LOG     ✓ Compiled in 26ms
+[11:21:00.779] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <head>
+                          <body
+-                           cz-shortcut-listen="true"
+                          >
+                  ...
+
+[11:22:27.997] Browser LOG     invalid zIndex tween value: undefined
+[11:22:27.998] Browser LOG     invalid zIndex tween value: undefined
+[11:22:27.998] Browser LOG     invalid zIndex tween value: undefined
+[11:22:27.998] Browser LOG     invalid zIndex tween value: undefined
+[11:22:27.998] Browser LOG     invalid zIndex tween value: undefined
+[11:22:27.998] Browser LOG     invalid zIndex tween value: undefined
+[11:22:27.998] Browser LOG     invalid zIndex tween value: undefined
+[11:22:27.998] Browser LOG     invalid zIndex tween value: undefined
+[11:22:27.998] Browser LOG     invalid zIndex tween value: undefined
+[11:22:27.998] Browser LOG     invalid zIndex tween value: undefined
+[11:22:27.998] Browser LOG     invalid zIndex tween value: undefined
+[11:22:27.998] Browser LOG     invalid zIndex tween value: undefined
+[11:22:27.998] Browser LOG     invalid zIndex tween value: undefined
+[11:22:27.998] Browser LOG     invalid zIndex tween value: undefined
+[11:22:27.998] Browser LOG     invalid zIndex tween value: undefined
+[11:22:27.998] Browser LOG     invalid zIndex tween value: undefined
+[11:22:34.178] Browser LOG     invalid zIndex tween value: undefined
+[11:22:34.178] Browser LOG     invalid zIndex tween value: undefined
+[11:22:34.178] Browser LOG     invalid zIndex tween value: undefined
+[11:22:34.178] Browser LOG     invalid zIndex tween value: undefined
+[11:22:34.178] Browser LOG     invalid zIndex tween value: undefined
+[11:22:34.178] Browser LOG     invalid zIndex tween value: undefined
+[11:22:34.178] Browser LOG     invalid zIndex tween value: undefined
+[11:22:34.178] Browser LOG     invalid zIndex tween value: undefined
+[11:22:34.178] Browser LOG     invalid zIndex tween value: undefined
+[11:22:34.178] Browser LOG     invalid zIndex tween value: undefined
+[11:22:34.178] Browser LOG     invalid zIndex tween value: undefined
+[11:22:34.178] Browser LOG     invalid zIndex tween value: undefined
+[11:22:34.178] Browser LOG     invalid zIndex tween value: undefined
+[11:22:34.178] Browser LOG     invalid zIndex tween value: undefined
+[11:22:34.178] Browser LOG     invalid zIndex tween value: undefined
+[11:22:34.178] Browser LOG     invalid zIndex tween value: undefined
+[11:22:40.361] Browser LOG     invalid zIndex tween value: undefined
+[11:22:40.361] Browser LOG     invalid zIndex tween value: undefined
+[11:22:40.361] Browser LOG     invalid zIndex tween value: undefined
+[11:22:40.361] Browser LOG     invalid zIndex tween value: undefined
+[11:22:40.361] Browser LOG     invalid zIndex tween value: undefined
+[11:22:40.361] Browser LOG     invalid zIndex tween value: undefined
+[11:22:40.361] Browser LOG     invalid zIndex tween value: undefined
+[11:22:40.361] Browser LOG     invalid zIndex tween value: undefined
+[11:22:40.361] Browser LOG     invalid zIndex tween value: undefined
+[11:22:40.361] Browser LOG     invalid zIndex tween value: undefined
+[11:22:40.361] Browser LOG     invalid zIndex tween value: undefined
+[11:22:40.361] Browser LOG     invalid zIndex tween value: undefined
+[11:22:40.361] Browser LOG     invalid zIndex tween value: undefined
+[11:22:40.361] Browser LOG     invalid zIndex tween value: undefined
+[11:22:40.361] Browser LOG     invalid zIndex tween value: undefined
+[11:22:40.361] Browser LOG     invalid zIndex tween value: undefined
+[11:22:46.547] Browser LOG     invalid zIndex tween value: undefined
+[11:22:46.547] Browser LOG     invalid zIndex tween value: undefined
+[11:22:46.547] Browser LOG     invalid zIndex tween value: undefined
+[11:22:46.547] Browser LOG     invalid zIndex tween value: undefined
+[11:22:46.547] Browser LOG     invalid zIndex tween value: undefined
+[11:22:46.547] Browser LOG     invalid zIndex tween value: undefined
+[11:22:46.547] Browser LOG     invalid zIndex tween value: undefined
+[11:22:46.547] Browser LOG     invalid zIndex tween value: undefined
+[11:22:46.547] Browser LOG     invalid zIndex tween value: undefined
+[11:22:46.547] Browser LOG     invalid zIndex tween value: undefined
+[11:22:46.547] Browser LOG     invalid zIndex tween value: undefined
+[11:22:46.547] Browser LOG     invalid zIndex tween value: undefined
+[11:22:46.547] Browser LOG     invalid zIndex tween value: undefined
+[11:22:46.547] Browser LOG     invalid zIndex tween value: undefined
+[11:22:46.547] Browser LOG     invalid zIndex tween value: undefined
+[11:22:46.547] Browser LOG     invalid zIndex tween value: undefined
+[11:22:52.723] Browser LOG     invalid zIndex tween value: undefined
+[11:22:52.723] Browser LOG     invalid zIndex tween value: undefined
+[11:22:52.723] Browser LOG     invalid zIndex tween value: undefined
+[11:22:52.723] Browser LOG     invalid zIndex tween value: undefined
+[11:22:52.723] Browser LOG     invalid zIndex tween value: undefined
+[11:22:52.723] Browser LOG     invalid zIndex tween value: undefined
+[11:22:52.723] Browser LOG     invalid zIndex tween value: undefined
+[11:22:52.723] Browser LOG     invalid zIndex tween value: undefined
+[11:22:52.723] Browser LOG     invalid zIndex tween value: undefined
+[11:22:52.723] Browser LOG     invalid zIndex tween value: undefined
+[11:22:52.723] Browser LOG     invalid zIndex tween value: undefined
+[11:22:52.723] Browser LOG     invalid zIndex tween value: undefined
+[11:22:52.723] Browser LOG     invalid zIndex tween value: undefined
+[11:22:52.723] Browser LOG     invalid zIndex tween value: undefined
+[11:22:52.723] Browser LOG     invalid zIndex tween value: undefined
+[11:22:52.723] Browser LOG     invalid zIndex tween value: undefined
+[11:22:58.910] Browser LOG     invalid zIndex tween value: undefined
+[11:22:58.910] Browser LOG     invalid zIndex tween value: undefined
+[11:22:58.910] Browser LOG     invalid zIndex tween value: undefined
+[11:22:58.910] Browser LOG     invalid zIndex tween value: undefined
+[11:22:58.910] Browser LOG     invalid zIndex tween value: undefined
+[11:22:58.910] Browser LOG     invalid zIndex tween value: undefined
+[11:22:58.910] Browser LOG     invalid zIndex tween value: undefined
+[11:22:58.910] Browser LOG     invalid zIndex tween value: undefined
+[11:22:58.910] Browser LOG     invalid zIndex tween value: undefined
+[11:22:58.910] Browser LOG     invalid zIndex tween value: undefined
+[11:22:58.910] Browser LOG     invalid zIndex tween value: undefined
+[11:22:58.910] Browser LOG     invalid zIndex tween value: undefined
+[11:22:58.910] Browser LOG     invalid zIndex tween value: undefined
+[11:22:58.910] Browser LOG     invalid zIndex tween value: undefined
+[11:22:58.910] Browser LOG     invalid zIndex tween value: undefined
+[11:22:58.910] Browser LOG     invalid zIndex tween value: undefined
+[11:23:05.094] Browser LOG     invalid zIndex tween value: undefined
+[11:23:05.094] Browser LOG     invalid zIndex tween value: undefined
+[11:23:05.094] Browser LOG     invalid zIndex tween value: undefined
+[11:23:05.094] Browser LOG     invalid zIndex tween value: undefined
+[11:23:05.094] Browser LOG     invalid zIndex tween value: undefined
+[11:23:05.094] Browser LOG     invalid zIndex tween value: undefined
+[11:23:05.094] Browser LOG     invalid zIndex tween value: undefined
+[11:23:05.094] Browser LOG     invalid zIndex tween value: undefined
+[11:23:05.094] Browser LOG     invalid zIndex tween value: undefined
+[11:23:05.094] Browser LOG     invalid zIndex tween value: undefined
+[11:23:05.094] Browser LOG     invalid zIndex tween value: undefined
+[11:23:05.094] Browser LOG     invalid zIndex tween value: undefined
+[11:23:05.094] Browser LOG     invalid zIndex tween value: undefined
+[11:23:05.094] Browser LOG     invalid zIndex tween value: undefined
+[11:23:05.094] Browser LOG     invalid zIndex tween value: undefined
+[11:23:05.094] Browser LOG     invalid zIndex tween value: undefined
+[11:23:11.296] Browser LOG     invalid zIndex tween value: undefined
+[11:23:11.296] Browser LOG     invalid zIndex tween value: undefined
+[11:23:11.296] Browser LOG     invalid zIndex tween value: undefined
+[11:23:11.296] Browser LOG     invalid zIndex tween value: undefined
+[11:23:11.296] Browser LOG     invalid zIndex tween value: undefined
+[11:23:11.296] Browser LOG     invalid zIndex tween value: undefined
+[11:23:11.296] Browser LOG     invalid zIndex tween value: undefined
+[11:23:11.296] Browser LOG     invalid zIndex tween value: undefined
+[11:23:11.296] Browser LOG     invalid zIndex tween value: undefined
+[11:23:11.296] Browser LOG     invalid zIndex tween value: undefined
+[11:23:11.296] Browser LOG     invalid zIndex tween value: undefined
+[11:23:11.296] Browser LOG     invalid zIndex tween value: undefined
+[11:23:11.296] Browser LOG     invalid zIndex tween value: undefined
+[11:23:11.296] Browser LOG     invalid zIndex tween value: undefined
+[11:23:11.296] Browser LOG     invalid zIndex tween value: undefined
+[11:23:11.296] Browser LOG     invalid zIndex tween value: undefined
+[11:23:17.478] Browser LOG     invalid zIndex tween value: undefined
+[11:23:17.478] Browser LOG     invalid zIndex tween value: undefined
+[11:23:17.478] Browser LOG     invalid zIndex tween value: undefined
+[11:23:17.478] Browser LOG     invalid zIndex tween value: undefined
+[11:23:17.478] Browser LOG     invalid zIndex tween value: undefined
+[11:23:17.478] Browser LOG     invalid zIndex tween value: undefined
+[11:23:17.478] Browser LOG     invalid zIndex tween value: undefined
+[11:23:17.478] Browser LOG     invalid zIndex tween value: undefined
+[11:23:17.478] Browser LOG     invalid zIndex tween value: undefined
+[11:23:17.478] Browser LOG     invalid zIndex tween value: undefined
+[11:23:17.478] Browser LOG     invalid zIndex tween value: undefined
+[11:23:17.478] Browser LOG     invalid zIndex tween value: undefined
+[11:23:17.478] Browser LOG     invalid zIndex tween value: undefined
+[11:23:17.478] Browser LOG     invalid zIndex tween value: undefined
+[11:23:17.478] Browser LOG     invalid zIndex tween value: undefined
+[11:23:17.478] Browser LOG     invalid zIndex tween value: undefined
+[11:33:13.463] Server  LOG     ✓ Compiled in 227ms
+[11:34:29.299] Browser WARN    Image with src "/images/about/l-2.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[11:36:19.119] Server  LOG     ✓ Compiled in 164ms
+[11:36:41.983] Server  LOG     ✓ Compiled in 65ms
+[11:36:50.737] Browser WARN    Image with src "/images/projects/pro-2.3.1.webp" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[11:37:00.459] Server  LOG     ✓ Compiled in 53ms
+[11:37:05.727] Server  LOG     ✓ Compiled in 47ms
+[11:37:05.841] Server  LOG     ✓ Compiled in 42ms
+[11:37:05.950] Server  LOG     ✓ Compiled in 43ms
+[11:37:13.983] Server  LOG     ✓ Compiled in 36ms
+[11:37:14.359] Server  LOG     ✓ Compiled in 40ms
+[11:37:14.632] Server  LOG     ✓ Compiled in 29ms
+[11:47:38.497] Server  LOG     ✓ Compiled in 221ms
+[11:49:15.040] Server  LOG     ✓ Compiled in 304ms
+[11:49:15.078] Server  LOG     ✓ Compiled in 30ms
+[11:49:17.947] Server  LOG     ✓ Compiled in 32ms
+[11:49:18.242] Server  LOG     ✓ Compiled in 30ms
+[11:49:18.603] Server  LOG     ✓ Compiled in 41ms
+[11:49:21.836] Browser WARN    Image with src "/images/about/s-1.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[11:49:21.836] Browser WARN    Image with src "/images/projects/test.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[11:49:53.992] Server  LOG     ✓ Compiled in 144ms
+[11:49:54.081] Server  LOG     ✓ Compiled in 15ms
+[11:49:58.804] Browser WARN    Image with src "/images/about/s-1.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[11:50:23.549] Server  LOG     ✓ Compiled in 112ms
+[11:50:24.390] Server  LOG     ✓ Compiled in 31ms
+[11:50:24.469] Server  LOG     ✓ Compiled in 14ms
+[11:50:24.583] Server  LOG     ✓ Compiled in 25ms
+[11:50:25.387] Server  LOG     ✓ Compiled in 101ms
+[11:50:25.582] Server  LOG     ✓ Compiled in 0ms
+[11:50:26.096] Server  LOG     ✓ Compiled in 24ms
+[11:50:26.467] Server  LOG     ✓ Compiled in 38ms
+[11:50:28.579] Server  LOG     ✓ Compiled in 81ms
+[11:50:29.636] Server  LOG     ✓ Compiled in 61ms
+[11:50:34.145] Browser WARN    Image with src "/images/projects/test.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[11:50:59.560] Browser LOG     invalid zIndex tween value: undefined
+[11:50:59.560] Browser LOG     invalid zIndex tween value: undefined
+[11:50:59.560] Browser LOG     invalid zIndex tween value: undefined
+[11:50:59.560] Browser LOG     invalid zIndex tween value: undefined
+[11:50:59.560] Browser LOG     invalid zIndex tween value: undefined
+[11:50:59.560] Browser LOG     invalid zIndex tween value: undefined
+[11:50:59.560] Browser LOG     invalid zIndex tween value: undefined
+[11:50:59.560] Browser LOG     invalid zIndex tween value: undefined
+[11:50:59.560] Browser LOG     invalid zIndex tween value: undefined
+[11:50:59.560] Browser LOG     invalid zIndex tween value: undefined
+[11:50:59.560] Browser LOG     invalid zIndex tween value: undefined
+[11:50:59.560] Browser LOG     invalid zIndex tween value: undefined
+[11:50:59.560] Browser LOG     invalid zIndex tween value: undefined
+[11:50:59.560] Browser LOG     invalid zIndex tween value: undefined
+[11:50:59.560] Browser LOG     invalid zIndex tween value: undefined
+[11:50:59.560] Browser LOG     invalid zIndex tween value: undefined
+[11:51:05.743] Browser LOG     invalid zIndex tween value: undefined
+[11:51:05.743] Browser LOG     invalid zIndex tween value: undefined
+[11:51:05.743] Browser LOG     invalid zIndex tween value: undefined
+[11:51:05.743] Browser LOG     invalid zIndex tween value: undefined
+[11:51:05.743] Browser LOG     invalid zIndex tween value: undefined
+[11:51:05.743] Browser LOG     invalid zIndex tween value: undefined
+[11:51:05.743] Browser LOG     invalid zIndex tween value: undefined
+[11:51:05.743] Browser LOG     invalid zIndex tween value: undefined
+[11:51:05.743] Browser LOG     invalid zIndex tween value: undefined
+[11:51:05.743] Browser LOG     invalid zIndex tween value: undefined
+[11:51:05.743] Browser LOG     invalid zIndex tween value: undefined
+[11:51:05.743] Browser LOG     invalid zIndex tween value: undefined
+[11:51:05.743] Browser LOG     invalid zIndex tween value: undefined
+[11:51:05.743] Browser LOG     invalid zIndex tween value: undefined
+[11:51:05.743] Browser LOG     invalid zIndex tween value: undefined
+[11:51:05.744] Browser LOG     invalid zIndex tween value: undefined
+[11:54:21.019] Browser LOG     invalid zIndex tween value: undefined
+[11:54:21.023] Browser LOG     invalid zIndex tween value: undefined
+[11:54:21.024] Browser LOG     invalid zIndex tween value: undefined
+[11:54:21.024] Browser LOG     invalid zIndex tween value: undefined
+[11:54:21.024] Browser LOG     invalid zIndex tween value: undefined
+[11:54:21.024] Browser LOG     invalid zIndex tween value: undefined
+[11:54:21.024] Browser LOG     invalid zIndex tween value: undefined
+[11:54:21.024] Browser LOG     invalid zIndex tween value: undefined
+[11:54:21.024] Browser LOG     invalid zIndex tween value: undefined
+[11:54:21.024] Browser LOG     invalid zIndex tween value: undefined
+[11:54:21.024] Browser LOG     invalid zIndex tween value: undefined
+[11:54:21.024] Browser LOG     invalid zIndex tween value: undefined
+[11:54:21.024] Browser LOG     invalid zIndex tween value: undefined
+[11:54:21.025] Browser LOG     invalid zIndex tween value: undefined
+[11:54:21.025] Browser LOG     invalid zIndex tween value: undefined
+[11:54:21.025] Browser LOG     invalid zIndex tween value: undefined
+[11:54:34.187] Server  LOG     ✓ Compiled in 252ms
+[12:10:16.135] Server  LOG     ✓ Compiled in 337ms
+[12:10:16.621] Server  LOG     ✓ Compiled in 62ms
+[12:10:17.847] Server  LOG     ✓ Compiled in 0ms
+[12:16:27.125] Server  LOG     ✓ Compiled in 0ms
+[12:16:36.035] Server  LOG     ✓ Compiled in 32ms
+[12:16:37.051] Browser WARN    Image with src "/images/projects/test.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[12:16:59.025] Browser WARN    Image with src "/images/about/s-1.jpg" has "fill" prop and "sizes" prop of "100vw", but image is not rendered at full viewport width. Please adjust "sizes" to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[12:18:04.300] Browser WARN    Image with src "/images/about/s-1.jpg" has "fill" prop and "sizes" prop of "100vw", but image is not rendered at full viewport width. Please adjust "sizes" to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[12:18:04.300] Browser WARN    Image with src "/images/about/l-2.jpg" has "fill" prop and "sizes" prop of "100vw", but image is not rendered at full viewport width. Please adjust "sizes" to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[12:18:04.300] Browser WARN    Image with src "/images/about/l-1.jpg" has "fill" prop and "sizes" prop of "100vw", but image is not rendered at full viewport width. Please adjust "sizes" to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[12:18:04.300] Browser WARN    Image with src "/images/about/s-3.jpg" has "fill" prop and "sizes" prop of "100vw", but image is not rendered at full viewport width. Please adjust "sizes" to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[12:27:03.836] Server  LOG     ✓ Compiled in 323ms
+[12:27:04.630] Server  LOG     ✓ Compiled in 74ms
+[12:27:09.296] Browser WARN    Image with src "/images/about/s-1.jpg" has "fill" prop and "sizes" prop of "100vw", but image is not rendered at full viewport width. Please adjust "sizes" to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[12:27:09.296] Browser WARN    Image with src "/images/about/l-2.jpg" has "fill" prop and "sizes" prop of "100vw", but image is not rendered at full viewport width. Please adjust "sizes" to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[12:27:09.296] Browser WARN    Image with src "/images/about/l-1.jpg" has "fill" prop and "sizes" prop of "100vw", but image is not rendered at full viewport width. Please adjust "sizes" to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[12:27:09.296] Browser WARN    Image with src "/images/about/s-3.jpg" has "fill" prop and "sizes" prop of "100vw", but image is not rendered at full viewport width. Please adjust "sizes" to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes

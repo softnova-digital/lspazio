@@ -2,6 +2,7 @@
 
 import React from "react";
 import Link from "next/link";
+import Image from "next/image";
 
 export default function AboutSection() {
   return (
@@ -39,8 +40,18 @@ export default function AboutSection() {
                   <div className="col-md-6 col-sm-6">
                     <div className="masonry-item">
                       <div className="arc-about-year text-uppercase text-right m-b20">
-                        <div className="arc-about-year-pic img-reflection">
-                          <img src="/images/about/s-1.jpg" alt="About" />
+                        {/* 260 px container — CSS handles opacity:0.1 on the img */}
+                        <div
+                          className="arc-about-year-pic img-reflection"
+                          style={{ height: 260, overflow: "hidden" }}
+                        >
+                          <Image
+                            src="/images/about/s-1.jpg"
+                            alt="About"
+                            fill
+                            sizes="(max-width: 576px) 100vw, 50vw"
+                            className="object-cover"
+                          />
                         </div>
                         <div className="arc-about-year-info">
                           <span className="title-small">
@@ -54,22 +65,50 @@ export default function AboutSection() {
                     </div>
 
                     <div className="masonry-item">
-                      <div className="wt-media m-b20 img-reflection">
-                        <img src="/images/about/l-1.jpg" alt="About" />
+                      {/* 360 px — prevents the 8064 px tall webp from blowing out the column */}
+                      <div
+                        className="wt-media m-b20 img-reflection"
+                        style={{ height: 360, position: "relative", overflow: "hidden" }}
+                      >
+                        <Image
+                          src="/images/projects/pro-2.3.1.webp"
+                          alt="About"
+                          fill
+                          sizes="(max-width: 576px) 100vw, 50vw"
+                          className="object-cover"
+                        />
                       </div>
                     </div>
                   </div>
 
                   <div className="col-md-6 col-sm-6">
                     <div className="masonry-item">
-                      <div className="wt-media m-b20 img-reflection">
-                        <img src="/images/about/l-2.jpg" alt="About" />
+                      <div
+                        className="wt-media m-b20 img-reflection"
+                        style={{ height: 380, position: "relative", overflow: "hidden" }}
+                      >
+                        <Image
+                          src="/images/projects/test.png"
+                          alt="About"
+                          fill
+                          sizes="(max-width: 576px) 100vw, 50vw"
+                          className="object-cover"
+                        />
                       </div>
                     </div>
 
                     <div className="masonry-item">
-                      <div className="wt-media m-b20 img-reflection">
-                        <img src="/images/about/s-3.jpg" alt="About" />
+                      <div
+                        className="wt-media m-b20 img-reflection"
+                        style={{ height: 260, position: "relative", overflow: "hidden" }}
+                      >
+                        <Image
+                          src="/images/projects/pro-2.3.1.webp"
+                          alt="About"
+                          fill
+                          sizes="(max-width: 576px) 100vw, 50vw"
+                          className="object-cover"
+                        />
                       </div>
                     </div>
                   </div>
@@ -80,8 +119,17 @@ export default function AboutSection() {
                   <div className="col-12">
                     <div className="masonry-item">
                       <div className="arc-about-year text-uppercase text-right m-b20">
-                        <div className="arc-about-year-pic img-reflection">
-                          <img src="/images/about/s-1.jpg" alt="About" />
+                        <div
+                          className="arc-about-year-pic img-reflection"
+                          style={{ height: 260, overflow: "hidden" }}
+                        >
+                          <Image
+                            src="/images/about/s-1.jpg"
+                            alt="About"
+                            fill
+                            sizes="100vw"
+                            className="object-cover"
+                          />
                         </div>
                         <div className="arc-about-year-info">
                           <span className="title-small">
@@ -95,20 +143,47 @@ export default function AboutSection() {
                     </div>
 
                     <div className="masonry-item">
-                      <div className="wt-media m-b20 img-reflection">
-                        <img src="/images/about/l-2.jpg" alt="About" />
+                      <div
+                        className="wt-media m-b20 img-reflection"
+                        style={{ height: 320, position: "relative", overflow: "hidden" }}
+                      >
+                        <Image
+                          src="/images/about/l-2.jpg"
+                          alt="About"
+                          fill
+                          sizes="100vw"
+                          className="object-cover"
+                        />
                       </div>
                     </div>
 
                     <div className="masonry-item">
-                      <div className="wt-media m-b20 img-reflection">
-                        <img src="/images/about/l-1.jpg" alt="About" />
+                      <div
+                        className="wt-media m-b20 img-reflection"
+                        style={{ height: 320, position: "relative", overflow: "hidden" }}
+                      >
+                        <Image
+                          src="/images/about/l-1.jpg"
+                          alt="About"
+                          fill
+                          sizes="100vw"
+                          className="object-cover"
+                        />
                       </div>
                     </div>
 
                     <div className="masonry-item">
-                      <div className="wt-media m-b20 img-reflection">
-                        <img src="/images/about/s-3.jpg" alt="About" />
+                      <div
+                        className="wt-media m-b20 img-reflection"
+                        style={{ height: 260, position: "relative", overflow: "hidden" }}
+                      >
+                        <Image
+                          src="/images/about/s-3.jpg"
+                          alt="About"
+                          fill
+                          sizes="100vw"
+                          className="object-cover"
+                        />
                       </div>
                     </div>
                   </div>
