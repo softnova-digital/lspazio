@@ -1749,3 +1749,161 @@ It can also happen if the client has a browser extension installed which messes 
 [00:49:05.608] Browser LOG     invalid zIndex tween value: undefined
 [00:49:05.608] Browser LOG     invalid zIndex tween value: undefined
 [00:49:05.608] Browser LOG     invalid zIndex tween value: undefined
+[00:49:33.461] Server  LOG     ✓ Compiled in 123ms
+[00:52:52.527] Server  LOG     ✓ Compiled in 141ms
+[00:52:59.108] Browser LOG     invalid zIndex tween value: undefined
+[00:52:59.108] Browser LOG     invalid zIndex tween value: undefined
+[00:52:59.108] Browser LOG     invalid zIndex tween value: undefined
+[00:52:59.108] Browser LOG     invalid zIndex tween value: undefined
+[00:52:59.108] Browser LOG     invalid zIndex tween value: undefined
+[00:52:59.108] Browser LOG     invalid zIndex tween value: undefined
+[00:52:59.108] Browser LOG     invalid zIndex tween value: undefined
+[00:52:59.108] Browser LOG     invalid zIndex tween value: undefined
+[00:52:59.108] Browser LOG     invalid zIndex tween value: undefined
+[00:52:59.108] Browser LOG     invalid zIndex tween value: undefined
+[00:52:59.109] Browser LOG     invalid zIndex tween value: undefined
+[00:52:59.109] Browser LOG     invalid zIndex tween value: undefined
+[00:52:59.109] Browser LOG     invalid zIndex tween value: undefined
+[00:52:59.109] Browser LOG     invalid zIndex tween value: undefined
+[00:52:59.109] Browser LOG     invalid zIndex tween value: undefined
+[00:52:59.109] Browser LOG     invalid zIndex tween value: undefined
+[00:53:26.151] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/about" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <head>
+                          <body
+-                           cz-shortcut-listen="true"
+                          >
+                  ...
+
+[00:53:43.064] Browser LOG     invalid zIndex tween value: undefined
+[00:53:43.064] Browser LOG     invalid zIndex tween value: undefined
+[00:53:43.064] Browser LOG     invalid zIndex tween value: undefined
+[00:53:43.064] Browser LOG     invalid zIndex tween value: undefined
+[00:53:43.064] Browser LOG     invalid zIndex tween value: undefined
+[00:53:43.064] Browser LOG     invalid zIndex tween value: undefined
+[00:53:43.064] Browser LOG     invalid zIndex tween value: undefined
+[00:53:43.064] Browser LOG     invalid zIndex tween value: undefined
+[00:53:43.064] Browser LOG     invalid zIndex tween value: undefined
+[00:53:43.064] Browser LOG     invalid zIndex tween value: undefined
+[00:53:43.064] Browser LOG     invalid zIndex tween value: undefined
+[00:53:43.064] Browser LOG     invalid zIndex tween value: undefined
+[00:53:43.064] Browser LOG     invalid zIndex tween value: undefined
+[00:53:43.064] Browser LOG     invalid zIndex tween value: undefined
+[00:53:43.064] Browser LOG     invalid zIndex tween value: undefined
+[00:53:43.064] Browser LOG     invalid zIndex tween value: undefined
+[00:53:49.437] Browser LOG     invalid zIndex tween value: undefined
+[00:53:49.437] Browser LOG     invalid zIndex tween value: undefined
+[00:53:49.437] Browser LOG     invalid zIndex tween value: undefined
+[00:53:49.437] Browser LOG     invalid zIndex tween value: undefined
+[00:53:49.437] Browser LOG     invalid zIndex tween value: undefined
+[00:53:49.437] Browser LOG     invalid zIndex tween value: undefined
+[00:53:49.437] Browser LOG     invalid zIndex tween value: undefined
+[00:53:49.437] Browser LOG     invalid zIndex tween value: undefined
+[00:53:49.437] Browser LOG     invalid zIndex tween value: undefined
+[00:53:49.437] Browser LOG     invalid zIndex tween value: undefined
+[00:53:49.437] Browser LOG     invalid zIndex tween value: undefined
+[00:53:49.437] Browser LOG     invalid zIndex tween value: undefined
+[00:53:49.437] Browser LOG     invalid zIndex tween value: undefined
+[00:53:49.437] Browser LOG     invalid zIndex tween value: undefined
+[00:53:49.437] Browser LOG     invalid zIndex tween value: undefined
+[00:53:49.437] Browser LOG     invalid zIndex tween value: undefined
+[00:55:32.839] Browser LOG     invalid zIndex tween value: undefined
+[00:55:32.839] Browser LOG     invalid zIndex tween value: undefined
+[00:55:32.839] Browser LOG     invalid zIndex tween value: undefined
+[00:55:32.839] Browser LOG     invalid zIndex tween value: undefined
+[00:55:32.839] Browser LOG     invalid zIndex tween value: undefined
+[00:55:32.839] Browser LOG     invalid zIndex tween value: undefined
+[00:55:32.839] Browser LOG     invalid zIndex tween value: undefined
+[00:55:32.839] Browser LOG     invalid zIndex tween value: undefined
+[00:55:32.839] Browser LOG     invalid zIndex tween value: undefined
+[00:55:32.839] Browser LOG     invalid zIndex tween value: undefined
+[00:55:32.839] Browser LOG     invalid zIndex tween value: undefined
+[00:55:32.839] Browser LOG     invalid zIndex tween value: undefined
+[00:55:32.839] Browser LOG     invalid zIndex tween value: undefined
+[00:55:32.839] Browser LOG     invalid zIndex tween value: undefined
+[00:55:32.839] Browser LOG     invalid zIndex tween value: undefined
+[00:55:32.839] Browser LOG     invalid zIndex tween value: undefined
+[00:56:09.474] Server  LOG     ✓ Compiled in 127ms
+[00:58:17.604] Browser LOG     invalid zIndex tween value: undefined
+[00:58:17.606] Browser LOG     invalid zIndex tween value: undefined
+[00:58:17.606] Browser LOG     invalid zIndex tween value: undefined
+[00:58:17.606] Browser LOG     invalid zIndex tween value: undefined
+[00:58:17.606] Browser LOG     invalid zIndex tween value: undefined
+[00:58:17.606] Browser LOG     invalid zIndex tween value: undefined
+[00:58:17.606] Browser LOG     invalid zIndex tween value: undefined
+[00:58:17.606] Browser LOG     invalid zIndex tween value: undefined
+[00:58:17.606] Browser LOG     invalid zIndex tween value: undefined
+[00:58:17.606] Browser LOG     invalid zIndex tween value: undefined
+[00:58:17.606] Browser LOG     invalid zIndex tween value: undefined
+[00:58:17.606] Browser LOG     invalid zIndex tween value: undefined
+[00:58:17.606] Browser LOG     invalid zIndex tween value: undefined
+[00:58:17.606] Browser LOG     invalid zIndex tween value: undefined
+[00:58:17.606] Browser LOG     invalid zIndex tween value: undefined
+[00:58:17.606] Browser LOG     invalid zIndex tween value: undefined
+[00:58:52.604] Server  LOG     ✓ Compiled in 148ms
+[01:03:19.681] Server  LOG     ✓ Compiled in 209ms
+[01:15:49.942] Server  LOG     ✓ Compiled in 459ms
+[01:16:50.175] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <head>
+                          <body
+-                           cz-shortcut-listen="true"
+                          >
+                  ...
+
