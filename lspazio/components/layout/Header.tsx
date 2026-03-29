@@ -56,7 +56,7 @@ export default function Header() {
             </button>
 
             {/* ETRA Nav */}
-            <div className="extra-nav">
+            {/* <div className="extra-nav">
               <div className="extra-cell">
                 <button
                   onClick={() => setIsSearchOpen(true)}
@@ -66,10 +66,10 @@ export default function Header() {
                   <Search size={18} />
                 </button>
               </div>
-            </div>
+            </div> */}
 
             {/* SITE Search */}
-            <div id="search" className={isSearchOpen ? "open" : ""}>
+            {/* <div id="search" className={isSearchOpen ? "open" : ""}>
               <span
                 className="close"
                 onClick={() => setIsSearchOpen(false)}
@@ -95,7 +95,7 @@ export default function Header() {
                   </span>
                 </div>
               </form>
-            </div>
+            </div> */}
 
             {/* MAIN Vav */}
             <div
@@ -103,7 +103,7 @@ export default function Header() {
             >
               <ul className="nav navbar-nav">
                 <li className="active">
-                  <Link href="#">Home</Link>
+                  <Link href="/">Home</Link>
                 </li>
                 <li>
                   <Link href="/about">About</Link>
@@ -118,15 +118,15 @@ export default function Header() {
                       <Link href="/blog">Blog Grid</Link>
                     </li>
                   </ul>
-                </li>
+                </li> */}
                 <li className="submenu-direction">
                   <Link href="/projects">Projects</Link>
-                  <ul className="sub-menu">
+                  {/* <ul className="sub-menu">
                     <li>
                       <Link href="/projects">Project Grid</Link>
                     </li>
-                  </ul>
-                </li> */}
+                  </ul> */}
+                </li>
               </ul>
             </div>
           </div>
