@@ -71,7 +71,7 @@ export default function AboutSection() {
                         style={{ height: 360, position: "relative", overflow: "hidden" }}
                       >
                         <Image
-                          src="/images/projects/pro-2.3.1.webp"
+                          src="/images/projects/interior.1.webp"
                           alt="About"
                           fill
                           sizes="(max-width: 576px) 100vw, 50vw"
@@ -88,7 +88,7 @@ export default function AboutSection() {
                         style={{ height: 380, position: "relative", overflow: "hidden" }}
                       >
                         <Image
-                          src="/images/projects/test.png"
+                          src="/images/projects/interior.1.webp"
                           alt="About"
                           fill
                           sizes="(max-width: 576px) 100vw, 50vw"
@@ -103,7 +103,7 @@ export default function AboutSection() {
                         style={{ height: 260, position: "relative", overflow: "hidden" }}
                       >
                         <Image
-                          src="/images/projects/pro-2.3.1.webp"
+                          src="/images/projects/pro-3.webp"
                           alt="About"
                           fill
                           sizes="(max-width: 576px) 100vw, 50vw"
@@ -137,7 +137,7 @@ export default function AboutSection() {
                             experience
                           </span>
                           <h2 className="wt-title m-tb0">Year</h2>
-                          <span className="text-outline">12</span>
+                          <span className="text-outline">10</span>
                         </div>
                       </div>
                     </div>
@@ -148,7 +148,7 @@ export default function AboutSection() {
                         style={{ height: 320, position: "relative", overflow: "hidden" }}
                       >
                         <Image
-                          src="/images/about/l-2.jpg"
+                          src="/images/projects/interior.1.webp"
                           alt="About"
                           fill
                           sizes="100vw"
@@ -163,7 +163,7 @@ export default function AboutSection() {
                         style={{ height: 320, position: "relative", overflow: "hidden" }}
                       >
                         <Image
-                          src="/images/about/l-1.jpg"
+                         src="/images/projects/interior.1.webp"
                           alt="About"
                           fill
                           sizes="100vw"
@@ -178,7 +178,7 @@ export default function AboutSection() {
                         style={{ height: 260, position: "relative", overflow: "hidden" }}
                       >
                         <Image
-                          src="/images/about/s-3.jpg"
+                          src="/images/projects/pro-3.webp"
                           alt="About"
                           fill
                           sizes="100vw"
